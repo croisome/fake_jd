@@ -1,0 +1,17 @@
+INSERT INTO `lunbo`(`autoID`, `pPic`, `type`) VALUES (1, 'banner.jpg', 1);
+INSERT INTO `lunbo`(`autoID`, `pPic`, `type`) VALUES (2, 'banner1.jpg', 1);
+INSERT INTO `lunbo`(`autoID`, `pPic`, `type`) VALUES (3, 'banner2.jpg', 1);
+INSERT INTO `lunbo`(`autoID`, `pPic`, `type`) VALUES (4, 'banner3.jpg', 1);
+INSERT INTO `lunbo`(`autoID`, `pPic`, `type`) VALUES (5, 'l.jpg', 2);
+INSERT INTO `lunbo`(`autoID`, `pPic`, `type`) VALUES (6, 'r.jpg', 2);
+INSERT INTO `lunbo`(`autoID`, `pPic`, `type`) VALUES (7, 'today01.png', 3);
+INSERT INTO `lunbo`(`autoID`, `pPic`, `type`) VALUES (8, 'today02.png', 3);
+INSERT INTO `lunbo`(`autoID`, `pPic`, `type`) VALUES (9, 'today03.png', 3);
+INSERT INTO `lunbo`(`autoID`, `pPic`, `type`) VALUES (10, 'today04.png', 3);
+INSERT INTO `lunbo`(`autoID`, `pPic`, `type`) VALUES (17, 'banner3.jpg', 1);
+INSERT INTO `lunbo`(`autoID`, `pPic`, `type`) VALUES (83, 'recom01.webp', 4);
+INSERT INTO `lunbo`(`autoID`, `pPic`, `type`) VALUES (84, 'recom02.webp', 4);
+INSERT INTO `lunbo`(`autoID`, `pPic`, `type`) VALUES (85, 'recom03.webp', 4);
+INSERT INTO `lunbo`(`autoID`, `pPic`, `type`) VALUES (86, 'recom04.webp', 4);
+INSERT INTO `lunbo`(`autoID`, `pPic`, `type`) VALUES (87, 'recom05.webp', 4);
+INSERT INTO `lunbo`(`autoID`, `pPic`, `type`) VALUES (88, 'recom06.webp', 4);
